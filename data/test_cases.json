@@ -1,0 +1,732 @@
+[
+  {
+    "test_id": "TEST001",
+    "query": "Stone Echo - Rock Track 1",
+    "expected_results": [
+      {
+        "song_id": "102",
+        "song_name": "Stone Echo - Rock Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "103",
+        "song_name": "Stone Echo - Rock Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "104",
+        "song_name": "Iron Valley - Rock Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "105",
+        "song_name": "Iron Valley - Rock Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "106",
+        "song_name": "Iron Valley - Rock Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "125",
+        "song_name": "Willow Lane - Folk Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "126",
+        "song_name": "Willow Lane - Folk Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "127",
+        "song_name": "Willow Lane - Folk Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "128",
+        "song_name": "Harbor Lights - Folk Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "129",
+        "song_name": "Harbor Lights - Folk Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "130",
+        "song_name": "Harbor Lights - Folk Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST002",
+    "query": "Iron Valley - Rock Track 1",
+    "expected_results": [
+      {
+        "song_id": "105",
+        "song_name": "Iron Valley - Rock Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "106",
+        "song_name": "Iron Valley - Rock Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "101",
+        "song_name": "Stone Echo - Rock Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "102",
+        "song_name": "Stone Echo - Rock Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "103",
+        "song_name": "Stone Echo - Rock Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "125",
+        "song_name": "Willow Lane - Folk Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "126",
+        "song_name": "Willow Lane - Folk Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "127",
+        "song_name": "Willow Lane - Folk Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "128",
+        "song_name": "Harbor Lights - Folk Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "129",
+        "song_name": "Harbor Lights - Folk Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "130",
+        "song_name": "Harbor Lights - Folk Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST003",
+    "query": "Lumen - Pop Track 1",
+    "expected_results": [
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "110",
+        "song_name": "Nova Hart - Pop Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "119",
+        "song_name": "Pulse Theory - Electronic Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "120",
+        "song_name": "Pulse Theory - Electronic Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "121",
+        "song_name": "Pulse Theory - Electronic Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "122",
+        "song_name": "Neon Drift - Electronic Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "123",
+        "song_name": "Neon Drift - Electronic Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "124",
+        "song_name": "Neon Drift - Electronic Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "131",
+        "song_name": "MC Atlas - Hiphop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "132",
+        "song_name": "MC Atlas - Hiphop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "133",
+        "song_name": "MC Atlas - Hiphop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "134",
+        "song_name": "Verse Nine - Hiphop Track 1",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST004",
+    "query": "Nova Hart - Pop Track 1",
+    "expected_results": [
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "107",
+        "song_name": "Lumen - Pop Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "119",
+        "song_name": "Pulse Theory - Electronic Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "120",
+        "song_name": "Pulse Theory - Electronic Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "121",
+        "song_name": "Pulse Theory - Electronic Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "122",
+        "song_name": "Neon Drift - Electronic Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "123",
+        "song_name": "Neon Drift - Electronic Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "124",
+        "song_name": "Neon Drift - Electronic Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "131",
+        "song_name": "MC Atlas - Hiphop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "132",
+        "song_name": "MC Atlas - Hiphop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "133",
+        "song_name": "MC Atlas - Hiphop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "134",
+        "song_name": "Verse Nine - Hiphop Track 1",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST005",
+    "query": "Blue Quarter - Jazz Track 1",
+    "expected_results": [
+      {
+        "song_id": "114",
+        "song_name": "Blue Quarter - Jazz Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "115",
+        "song_name": "Blue Quarter - Jazz Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "116",
+        "song_name": "Miles Away Trio - Jazz Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "117",
+        "song_name": "Miles Away Trio - Jazz Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "118",
+        "song_name": "Miles Away Trio - Jazz Track 3",
+        "relevance": 2
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST006",
+    "query": "Miles Away Trio - Jazz Track 1",
+    "expected_results": [
+      {
+        "song_id": "117",
+        "song_name": "Miles Away Trio - Jazz Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "118",
+        "song_name": "Miles Away Trio - Jazz Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "113",
+        "song_name": "Blue Quarter - Jazz Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "114",
+        "song_name": "Blue Quarter - Jazz Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "115",
+        "song_name": "Blue Quarter - Jazz Track 3",
+        "relevance": 2
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST007",
+    "query": "Pulse Theory - Electronic Track 1",
+    "expected_results": [
+      {
+        "song_id": "120",
+        "song_name": "Pulse Theory - Electronic Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "121",
+        "song_name": "Pulse Theory - Electronic Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "122",
+        "song_name": "Neon Drift - Electronic Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "123",
+        "song_name": "Neon Drift - Electronic Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "124",
+        "song_name": "Neon Drift - Electronic Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "107",
+        "song_name": "Lumen - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "110",
+        "song_name": "Nova Hart - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST008",
+    "query": "Neon Drift - Electronic Track 1",
+    "expected_results": [
+      {
+        "song_id": "123",
+        "song_name": "Neon Drift - Electronic Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "124",
+        "song_name": "Neon Drift - Electronic Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "119",
+        "song_name": "Pulse Theory - Electronic Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "120",
+        "song_name": "Pulse Theory - Electronic Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "121",
+        "song_name": "Pulse Theory - Electronic Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "107",
+        "song_name": "Lumen - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "110",
+        "song_name": "Nova Hart - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST009",
+    "query": "Willow Lane - Folk Track 1",
+    "expected_results": [
+      {
+        "song_id": "126",
+        "song_name": "Willow Lane - Folk Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "127",
+        "song_name": "Willow Lane - Folk Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "128",
+        "song_name": "Harbor Lights - Folk Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "129",
+        "song_name": "Harbor Lights - Folk Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "130",
+        "song_name": "Harbor Lights - Folk Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "101",
+        "song_name": "Stone Echo - Rock Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "102",
+        "song_name": "Stone Echo - Rock Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "103",
+        "song_name": "Stone Echo - Rock Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "104",
+        "song_name": "Iron Valley - Rock Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "105",
+        "song_name": "Iron Valley - Rock Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "106",
+        "song_name": "Iron Valley - Rock Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST010",
+    "query": "Harbor Lights - Folk Track 1",
+    "expected_results": [
+      {
+        "song_id": "129",
+        "song_name": "Harbor Lights - Folk Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "130",
+        "song_name": "Harbor Lights - Folk Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "125",
+        "song_name": "Willow Lane - Folk Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "126",
+        "song_name": "Willow Lane - Folk Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "127",
+        "song_name": "Willow Lane - Folk Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "101",
+        "song_name": "Stone Echo - Rock Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "102",
+        "song_name": "Stone Echo - Rock Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "103",
+        "song_name": "Stone Echo - Rock Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "104",
+        "song_name": "Iron Valley - Rock Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "105",
+        "song_name": "Iron Valley - Rock Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "106",
+        "song_name": "Iron Valley - Rock Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST011",
+    "query": "MC Atlas - Hiphop Track 1",
+    "expected_results": [
+      {
+        "song_id": "132",
+        "song_name": "MC Atlas - Hiphop Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "133",
+        "song_name": "MC Atlas - Hiphop Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "134",
+        "song_name": "Verse Nine - Hiphop Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "135",
+        "song_name": "Verse Nine - Hiphop Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "136",
+        "song_name": "Verse Nine - Hiphop Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "107",
+        "song_name": "Lumen - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "110",
+        "song_name": "Nova Hart - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "TEST012",
+    "query": "Verse Nine - Hiphop Track 1",
+    "expected_results": [
+      {
+        "song_id": "135",
+        "song_name": "Verse Nine - Hiphop Track 2",
+        "relevance": 3
+      },
+      {
+        "song_id": "136",
+        "song_name": "Verse Nine - Hiphop Track 3",
+        "relevance": 3
+      },
+      {
+        "song_id": "131",
+        "song_name": "MC Atlas - Hiphop Track 1",
+        "relevance": 2
+      },
+      {
+        "song_id": "132",
+        "song_name": "MC Atlas - Hiphop Track 2",
+        "relevance": 2
+      },
+      {
+        "song_id": "133",
+        "song_name": "MC Atlas - Hiphop Track 3",
+        "relevance": 2
+      },
+      {
+        "song_id": "107",
+        "song_name": "Lumen - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "108",
+        "song_name": "Lumen - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "109",
+        "song_name": "Lumen - Pop Track 3",
+        "relevance": 1
+      },
+      {
+        "song_id": "110",
+        "song_name": "Nova Hart - Pop Track 1",
+        "relevance": 1
+      },
+      {
+        "song_id": "111",
+        "song_name": "Nova Hart - Pop Track 2",
+        "relevance": 1
+      },
+      {
+        "song_id": "112",
+        "song_name": "Nova Hart - Pop Track 3",
+        "relevance": 1
+      }
+    ],
+    "category": "functional"
+  },
+  {
+    "test_id": "PERF001",
+    "query": "Stone Echo - Rock Track 2",
+    "expected_results": [],
+    "category": "performance"
+  }
+]

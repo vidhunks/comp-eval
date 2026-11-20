@@ -1,0 +1,22 @@
+# Python / virtualenv
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local competition data (each person gets their own database on first start)
+data/competition.db
+data/competition.db-*
+data/*.db
+*.tmp
+
+# Generated exports
+exports/*
+!exports/.gitkeep
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
